@@ -11,4 +11,4 @@ Extensions are not available
 API used
 1. Google Map for JavaScript
 
-SQL table file is not availble.
+SQL table file is not available.
